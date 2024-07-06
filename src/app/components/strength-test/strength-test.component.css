@@ -1,0 +1,13 @@
+.strength-test {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+.bar {
+  width: 30%;
+  height: 10px;
+  background-color: gray;
+  border-radius: 5px;
+}
